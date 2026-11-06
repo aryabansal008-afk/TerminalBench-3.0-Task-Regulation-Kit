@@ -1,4 +1,4 @@
-# Terminus 3 Task Regulations Kit
+# TerminalBench 3.0 Task Regulation Kit
 
 This kit does **not** contain a finished task - no actual task materials
 (instruction.md content, oracle logic, verifier tests) were provided, so
