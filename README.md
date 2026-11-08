@@ -1,8 +1,6 @@
 # TerminalBench 3.0 Task Regulation Kit
 
-This kit does **not** contain a finished task - no actual task materials
-(instruction.md content, oracle logic, verifier tests) were provided, so
-nothing here fabricates task-specific content. It gives you:
+This kit does **not** contain a finished task - no actual task materials(instruction.md content, oracle logic, verifier tests) were provided, so nothing here fabricates task-specific content. It gives you:
 
 1. **REGULATIONS.md** - the full merged checklist from both source prompts,
    organized by review section, with canonical values where the two prompts
